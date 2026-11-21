@@ -5,7 +5,7 @@ category: orbital
 permalink: /projects/orbit-planner
 excerpt: 'A constraint solver that schedules imaging passes for CubeSat constellations under power, downlink and weather constraints.'
 date: '2024-06-30'
-status: seeking-funding
+status: unfunded
 contact: 't.bennett@kestrellab.org'
 ---
 

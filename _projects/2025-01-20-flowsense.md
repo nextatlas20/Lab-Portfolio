@@ -5,7 +5,13 @@ category: hydrology
 permalink: /projects/flowsense
 excerpt: 'Satellite-only river gauge estimates for basins without ground sensors, validated against 61 public gauge stations.'
 date: '2025-01-20'
-status: seeking-funding
+status: funded
+funder: 'Ridgeline Fund'
+grant: 'Coastal Resilience Program'
+award_amount: 41000
+start_date: '2027-02-01'
+report_due: '2028-01-31'
+repo: 'https://github.com/nextatlas20/flowsense'
 contact: 't.bennett@kestrellab.org'
 ---
 
